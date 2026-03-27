@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NaturalBeauties.aternos.me.aternos.me
-    "port":  26777,
-    "version": "",1.21.11
+    "ip": "NaturalBeauties.aternos.me",
+    "port": 26777,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
