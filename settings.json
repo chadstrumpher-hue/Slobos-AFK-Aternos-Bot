@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Cheezybot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TheYassin.aternos.me
-    "port":  41607,
+    "ip": "NaturalBeauties.aternos.me.aternos.me
+    "port":  26777,
     "version": "",1.21.1.1
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "cheezychad123"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im a cheese enthusiasist.",
+        "Cheese is awesome.",
+        "I like Cheese."
       ]
     },
     "chat-log": true,
